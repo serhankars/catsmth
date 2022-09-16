@@ -9,6 +9,6 @@ Settings data (wheter to play song and sound effects and a player name) is persi
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email and I will surely try to fix it/help you.
 
 Yours sincerely,  
-Serhan Kars
+Serhan Kars,
 NYC, NY.  
 serhankars@gmail.com
